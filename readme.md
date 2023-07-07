@@ -57,7 +57,5 @@ https://celadon-elf-e8d19c.netlify.app/
 
 ##  Acknowledgments
 
-- Neelu Mishra - contributed to the project
-- Krushna Gaikwad - contributed to the project
-- Rhutik Thakare - contributed to the project
-- Madhvi Malviya - contributed to the project
+- Aditya Shende - contributed to the project
+
