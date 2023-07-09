@@ -38,7 +38,7 @@ This project implements a simple Kanban Board application for managing tasks and
 ## Live Demo
 
 You can access the live demo of the Kanban Board application here.
-https://celadon-elf-e8d19c.netlify.app/
+https://kanban-seven-ashy.vercel.app/
 
 <br/>
 
@@ -57,7 +57,4 @@ https://celadon-elf-e8d19c.netlify.app/
 
 ##  Acknowledgments
 
-- Neelu Mishra - contributed to the project
-- Krushna Gaikwad - contributed to the project
-- Rhutik Thakare - contributed to the project
-- Madhvi Malviya - contributed to the project
+- Aditya Shende 
