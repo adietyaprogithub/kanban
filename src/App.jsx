@@ -8,14 +8,12 @@ import Navbar from "./components/Navbar";
 
 function App() {
 
-  const [bgImage, setBgImage] = useState('https://images.pexels.com/photos/6408282/pexels-photo-6408282.jpeg')
-  const images = ['https://cdn.pixabay.com/photo/2023/05/04/02/24/bali-7969001_640.jpg',
-    'https://cdn.pixabay.com/photo/2023/04/22/17/59/flower-7944162_960_720.jpg',
-    'https://cdn.pixabay.com/photo/2013/04/04/12/34/mountains-100367_960_720.jpg',
-    'https://cdn.pixabay.com/photo/2013/10/02/23/03/mountains-190055_960_720.jpg',
-    'https://cdn.pixabay.com/photo/2013/11/28/10/36/road-220058_960_720.jpg',
-    'https://cdn.pixabay.com/photo/2013/07/25/01/31/forest-166733_960_720.jpg',
-    'https://images.pexels.com/photos/6408282/pexels-photo-6408282.jpeg'];
+  const [bgImage, setBgImage] = useState('https://cdn.pixabay.com/photo/2017/05/11/11/15/workplace-2303851_1280.jpg')
+  const images = ['https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_1280.jpg',
+    'https://cdn.pixabay.com/photo/2016/03/27/07/32/clouds-1282314_1280.jpg',
+    'https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg',
+    'https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_1280.jpg',
+    ];
 
   const handleBgChange = () => {
     const currentIndex = images.indexOf(bgImage);
